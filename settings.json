@@ -1,0 +1,19 @@
+{
+  "explorer.confirmDelete": false,
+    "editor.smoothScrolling": true,
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 16,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.tabSize": 2,
+    "workbench.activityBar.location": "hidden",
+    "editor.folding": false,
+    "editor.glyphMargin": false,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "editor.renderWhitespace": "boundary",
+    "editor.lineHeight": 24,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true,
+    "editor.tabCompletion": "on"
+}
